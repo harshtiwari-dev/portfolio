@@ -2,7 +2,7 @@
 
 My personal portfolio website, built from scratch with HTML5 and CSS3 (no frameworks).
 
-🔗 **Live site:** https://h4-harshtiwari.github.io/portfolio/
+🔗 **Live site:** https://harshtiwari-dev.github.io/portfolio/
 
 ## Sections
 - About
@@ -22,7 +22,7 @@ My personal portfolio website, built from scratch with HTML5 and CSS3 (no framew
 Clone the repo and open `index.html` in your browser — no build step needed.
 
 ```bash
-git clone https://github.com/H4-HarshTiwari/portfolio.git
+git clone https://github.com/harshtiwari-dev/portfolio.git
 cd portfolio
 ```
 

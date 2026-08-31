@@ -38,6 +38,6 @@ cd portfolio
 
 ## Contact
 - Email: harshtiwari.swe@gmail.com
-- LinkedIn: [harsh-tiwari-dev](https://linkedin.com/in/harsh-tiwari-dev)
+- LinkedIn: [harsh-tiwari-dev](https://linkedin.com/in/harshtiwari-dev)
 - GitHub: [harshtiwari-dev](https://github.com/harshtiwari-dev)
-- LeetCode: [_Harsh_Tiwari](https://leetcode.com/u/_Harsh_Tiwari/)
+- LeetCode: [_Harsh_Tiwari](https://leetcode.com/u/harshtiwari-dev)
